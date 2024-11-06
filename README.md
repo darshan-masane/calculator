@@ -12,3 +12,5 @@
 - index.html: Contains the structure of the calculator (buttons, screen).
 - style.css: Defines the calculator’s appearance (button styling, layout, colors).
 - script.js: Manages calculations and event handling for buttons.
+### Project Outcome
+- A fully functional, styled calculator webpage/app that performs basic math operations, showcasing a mix of HTML, CSS, and JavaScript skills.
